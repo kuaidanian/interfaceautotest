@@ -1,0 +1,30 @@
+2017-05-08 15:08:12,023 - root - INFO - 开始运行脚本:
+2017-05-08 15:08:12,023 - root - INFO - 开始执行测试用例test_user_getinfo_all_null
+2017-05-08 15:08:51,633 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-05-08 15:08:51,867 - root - INFO - 开始执行测试用例test_user_login_platuserid_othercharacter
+2017-05-08 15:08:51,929 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-05-08 15:08:52,148 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-05-08 15:08:52,179 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-05-08 15:08:52,554 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-05-08 15:08:52,586 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-05-08 15:08:52,742 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-05-08 15:08:52,961 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-05-08 15:08:53,039 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-05-08 15:08:53,070 - root - INFO - 开始执行测试用例test_user_login_loginPwd_toolong
+2017-05-08 15:08:53,195 - root - INFO - 开始执行测试用例test_user_login_loginPwd_toosmall
+2017-05-08 15:08:53,258 - root - INFO - 开始执行测试用例test_user_login_ologinPwd_error
+2017-05-08 15:08:53,289 - root - INFO - 开始执行测试用例test_user_login_password_success
+2017-05-08 15:08:53,476 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-05-08 15:08:53,508 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-05-08 15:08:53,539 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-05-08 15:08:53,586 - root - INFO - 开始执行测试用例test_user_update_password_null
+2017-05-08 15:08:53,679 - root - INFO - 开始删除测试报告2017-04-27 11_17_58_result.html
+2017-05-08 15:08:53,679 - root - INFO - 删除测试报告成功2017-04-27 11_17_58_result.html
+2017-05-08 15:08:53,679 - root - INFO - 获取是否发送邮件参数：为否
+2017-05-08 15:08:53,679 - root - INFO - 运行完成退出~~~~~~~~~~~
+2017-05-08 15:48:22,982 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-05-08 15:55:07,100 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-05-08 15:55:35,893 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-05-08 17:13:02,207 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-05-08 17:13:16,639 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-05-08 17:13:27,406 - root - INFO - 开始执行测试用例test_user_login_password_error

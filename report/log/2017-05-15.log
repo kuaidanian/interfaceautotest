@@ -1,0 +1,25 @@
+2017-05-15 13:50:26,153 - root - INFO - 开始运行脚本:
+2017-05-15 13:50:26,169 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-05-15 13:51:06,898 - root - INFO - 开始执行测试用例test_user_getinfo_all_null
+2017-05-15 13:51:06,953 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-05-15 13:51:07,016 - root - INFO - 开始执行测试用例test_user_login_platuserid_othercharacter
+2017-05-15 13:51:07,050 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-05-15 13:51:07,113 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-05-15 13:51:07,159 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-05-15 13:51:07,196 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-05-15 13:51:07,240 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-05-15 13:51:07,333 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-05-15 13:51:07,491 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-05-15 13:51:07,553 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-05-15 13:51:07,599 - root - INFO - 开始执行测试用例test_user_login_loginPwd_toolong
+2017-05-15 13:51:07,719 - root - INFO - 开始执行测试用例test_user_login_loginPwd_toosmall
+2017-05-15 13:51:07,756 - root - INFO - 开始执行测试用例test_user_login_ologinPwd_error
+2017-05-15 13:51:07,806 - root - INFO - 开始执行测试用例test_user_login_password_success
+2017-05-15 13:51:07,964 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-05-15 13:51:08,001 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-05-15 13:51:08,031 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-05-15 13:51:08,065 - root - INFO - 开始执行测试用例test_user_update_password_null
+2017-05-15 13:51:08,107 - root - INFO - 开始删除测试报告2017-05-08 15_08_12_result.html
+2017-05-15 13:51:08,109 - root - INFO - 删除测试报告成功2017-05-08 15_08_12_result.html
+2017-05-15 13:51:08,110 - root - INFO - 获取是否发送邮件参数：为否
+2017-05-15 13:51:08,110 - root - INFO - 运行完成退出~~~~~~~~~~~

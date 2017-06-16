@@ -1,0 +1,89 @@
+2017-04-25 10:21:52,925 - root - INFO - 开始运行脚本:
+2017-04-25 10:21:52,925 - root - INFO - 不需要删除测试报告
+2017-04-25 10:21:52,925 - root - INFO - 获取是否发送邮件参数：为否
+2017-04-25 10:21:52,925 - root - INFO - 运行完成退出~~~~~~~~~~~
+2017-04-25 10:29:26,400 - root - INFO - 开始运行脚本:
+2017-04-25 10:29:26,447 - root - INFO - 不需要删除测试报告
+2017-04-25 10:29:26,447 - root - INFO - 获取是否发送邮件参数：为是~~是~~准备开始发送
+2017-04-25 10:29:29,085 - root - INFO - 发送邮件成功
+2017-04-25 10:29:29,085 - root - INFO - 运行完成退出~~~~~~~~~~~
+2017-04-25 10:32:13,713 - root - INFO - 开始运行脚本:
+2017-04-25 10:32:13,713 - root - INFO - 开始删除测试报告__init__.py
+2017-04-25 10:32:13,713 - root - INFO - 删除测试报告成功__init__.py
+2017-04-25 10:32:13,713 - root - INFO - 获取是否发送邮件参数：为是~~是~~准备开始发送
+2017-04-25 10:32:16,481 - root - INFO - 发送邮件成功
+2017-04-25 10:32:16,481 - root - INFO - 运行完成退出~~~~~~~~~~~
+2017-04-25 10:58:18,088 - root - INFO - 开始运行脚本:
+2017-04-25 10:58:18,098 - root - INFO - 开始删除测试报告2017-04-25 10_29_26_result.html
+2017-04-25 10:58:18,099 - root - INFO - 删除测试报告成功2017-04-25 10_29_26_result.html
+2017-04-25 10:58:18,100 - root - INFO - 获取是否发送邮件参数：为是~~是~~准备开始发送
+2017-04-25 10:58:19,651 - root - INFO - 发送邮件成功
+2017-04-25 10:58:19,654 - root - INFO - 运行完成退出~~~~~~~~~~~
+2017-04-25 14:04:08,167 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:04:08,228 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-04-25 14:04:08,280 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:07:11,911 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:07:11,968 - root - INFO - 测试用例test_user_login_platUserAccount_null~~~~~成功~~~~~
+2017-04-25 14:07:27,007 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:07:27,069 - root - INFO - 测试用例test_user_login_all_null~~~~~成功~~~~~
+2017-04-25 14:07:27,070 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-04-25 14:07:27,132 - root - INFO - 测试用例test_user_login_apassword_null~~~~~成功~~~~~
+2017-04-25 14:07:27,133 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:07:27,194 - root - INFO - 测试用例test_user_login_platUserAccount_null~~~~~成功~~~~~
+2017-04-25 14:13:39,996 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:14:05,891 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:17:04,030 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:17:40,945 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:18:14,336 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:18:14,402 - root - INFO - 测试用例test_user_login_all_null~~~~~成功~~~~~
+2017-04-25 14:18:14,403 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-04-25 14:18:14,463 - root - INFO - 测试用例test_user_login_apassword_null~~~~~成功~~~~~
+2017-04-25 14:18:14,464 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:18:14,509 - root - INFO - 测试用例test_user_login_platUserAccount_null~~~~~成功~~~~~
+2017-04-25 14:24:35,703 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:24:35,767 - root - INFO - 测试用例test_user_login_all_null~~~~~成功~~~~~
+2017-04-25 14:24:35,772 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-04-25 14:24:35,829 - root - INFO - 测试用例test_user_login_apassword_null~~~~~成功~~~~~
+2017-04-25 14:24:35,836 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-04-25 14:24:35,921 - root - ERROR - 'T' != 'F'
+- T
++ F
+
+2017-04-25 14:24:35,923 - root - INFO - 测试用例test_user_login_platUserAccount_error~~~~~失败~~~~~
+2017-04-25 14:24:35,930 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:24:35,985 - root - INFO - 测试用例test_user_login_platUserAccount_null~~~~~成功~~~~~
+2017-04-25 14:28:17,375 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:28:17,435 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-04-25 14:28:17,498 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-04-25 14:28:17,652 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:28:36,166 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-04-25 14:29:20,560 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:29:20,614 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-04-25 14:29:20,677 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-04-25 14:29:20,829 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:29:56,848 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:29:56,917 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-04-25 14:29:56,980 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-04-25 14:29:57,070 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:50:04,899 - root - INFO - 开始运行脚本:
+2017-04-25 14:50:04,946 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:50:05,045 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-04-25 14:50:05,108 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-04-25 14:50:05,188 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-04-25 14:50:05,296 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-04-25 14:50:05,383 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:50:05,453 - root - INFO - 开始删除测试报告2017-04-25 10_32_13_result.html
+2017-04-25 14:50:05,455 - root - INFO - 删除测试报告成功2017-04-25 10_32_13_result.html
+2017-04-25 14:50:05,456 - root - INFO - 获取是否发送邮件参数：为否
+2017-04-25 14:50:05,457 - root - INFO - 运行完成退出~~~~~~~~~~~
+2017-04-25 14:52:05,258 - root - INFO - 开始运行脚本:
+2017-04-25 14:52:05,259 - root - INFO - 开始执行测试用例test_user_login_all_null
+2017-04-25 14:52:05,319 - root - INFO - 开始执行测试用例test_user_login_apassword_null
+2017-04-25 14:52:05,370 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-04-25 14:52:05,461 - root - INFO - 开始执行测试用例test_user_login_password_error
+2017-04-25 14:52:05,568 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_error
+2017-04-25 14:52:05,662 - root - INFO - 开始执行测试用例test_user_login_platUserAccount_null
+2017-04-25 14:52:05,732 - root - INFO - 开始删除测试报告2017-04-25 10_58_18_result.html
+2017-04-25 14:52:05,735 - root - INFO - 删除测试报告成功2017-04-25 10_58_18_result.html
+2017-04-25 14:52:05,738 - root - INFO - 获取是否发送邮件参数：为否
+2017-04-25 14:52:05,740 - root - INFO - 运行完成退出~~~~~~~~~~~
